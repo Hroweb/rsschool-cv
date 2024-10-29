@@ -39,7 +39,8 @@ function isIsogram(str){
 
 ## Education
 SEUA (State Enginnering University Of Armenia)
-
+- Faculty: «Computer Systems And Informatics»
+- Specialty: «Construction And Technology Of Electronic Systems»
 
 ## English
 According to my recent test, my English proficiency is between B1 Intermediate and B2 Upper Intermediate on the CEFR scale
