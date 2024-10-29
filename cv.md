@@ -17,7 +17,25 @@ building a strong foundation for more advanced projects and applications.
 - Laravel
 - PHP
 
-
+## Code Example
+```
+function isIsogram(str){
+  let letterArr = str.toLowerCase().split('');
+      let existingLetters = [];
+      
+      for(var i=0; i<=letterArr.length; i++){
+          let char = letterArr[i];
+          if(!existingLetters[char]) {
+              existingLetters[char] = true;
+          } else {
+              return `Error: The word '${str}' is not an isogram, as letter '${char}' already exists`;
+              break;
+          }
+      }
+      
+      return `Success: The word '${str}' is an isogram`;
+}
+```
 
 ## Education
 SEUA (State Enginnering University Of Armenia)
