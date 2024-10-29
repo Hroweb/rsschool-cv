@@ -1,1 +1,2 @@
-[# rsschool-cv](https://hroweb.github.io/rsschool-cv/cv)
+#rsschool-cv \
+[# https://hroweb.github.io/rsschool-cv](https://hroweb.github.io/rsschool-cv/)
